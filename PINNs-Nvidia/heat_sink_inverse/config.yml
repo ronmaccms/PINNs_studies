@@ -1,0 +1,23 @@
+defaults:
+  - modulus_default
+  - arch:
+      - fully_connected
+  - optimizer: adam
+  - scheduler: tf_exponential_lr # tensorFlow exponential learning 
+  - loss: sum
+  - _self_
+
+jit: false # 'just in time' is the compalation a the same time of the calculations
+scheduler: 
+  decay_rate: 0.95 # every specific step
+  decay_steps: 1000 # every 1000 we will have the larning rate reduced
+
+training:
+  rec_validation_freq: 1000
+  rec_inference_freq: 1000
+  rec_monitor_freq: 1000 # we will monnitor the thermal viscosivity and the difusivity
+  rec_constraint_freq: 1000
+  max_steps: 20000 # try to go to 100k steps for more accurate data can take up to 2 days in work laptop
+
+batch_size:
+  data: 1024
