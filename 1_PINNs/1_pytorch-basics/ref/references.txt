@@ -1,0 +1,14 @@
+REF:
+
+https://deepxde.readthedocs.io/en/latest/modules/deepxde.icbc.htmlhttps://www.kaggle.coms/code/ganiesenov/pinn-for-the-steady-navier-stokes-equation
+https://deepxde.readthedocs.io/en/latest/
+https://deepxde.readthedocs.iio/en/latest/demos/pinn_forward/Kovasznay.flow.html
+https://deepxde.readthedocs.iio/en/latest/demos/pinn_forward/eulerbeam.html
+https://i-systems.github.io/teaching/DL/iNotes_tf2/19_PINN_tf2.html
+https://deepxde.readthedocs.io/en/latest/demos/pinn_forward/eulerbeam.html
+https://i-systems.github.iio/teaching/DL/iNotes_tf2/19_PINN_tf2.html
+https://www.acenumerics.com/the-cavity-sessions.html
+https://github.com/lululxvi/deepxde/blob/master/examples/pinn_forward/wave_1d.py
+https://github.com/machinedecision/code_sample/tree/main
+https://github.com/machinedecision/code_sample/blob/main/heat_pde.ipynb
+https://github.com/machinedecision/code_sample/blob/main/Burgers_torch.ipynb
