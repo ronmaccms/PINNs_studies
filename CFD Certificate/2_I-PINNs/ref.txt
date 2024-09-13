@@ -1,0 +1,3 @@
+https://deepxde.readthedocs.io/en/latest/
+
+https://github.com/lululxvi/deepxde/blob/master/examples/pinn_inverse/Navier_Stokes_inverse.py
